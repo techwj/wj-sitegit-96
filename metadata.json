@@ -1,0 +1,59 @@
+{
+  "siteId": "fridge-organization-zoning-freshness",
+  "generatedAt": "2026-06-04T11:33:54.403225",
+  "categories": [
+    "beginner-fridge-organization-zoning-freshness",
+    "advanced-fridge-organization-zoning-freshness",
+    "tips-fridge-organization-zoning-freshness",
+    "history-fridge-organization-zoning-freshness",
+    "trending-fridge-organization-zoning-freshness",
+    "tutorials-fridge-organization-zoning-freshness"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-fridge-organization-zoning-freshness",
+      "category_name": "Beginner Fridge Organization Zoning Freshness"
+    },
+    {
+      "category_slug": "advanced-fridge-organization-zoning-freshness",
+      "category_name": "Advanced Fridge Organization Zoning Freshness"
+    },
+    {
+      "category_slug": "tips-fridge-organization-zoning-freshness",
+      "category_name": "Fridge Organization Zoning Freshness Tips"
+    },
+    {
+      "category_slug": "history-fridge-organization-zoning-freshness",
+      "category_name": "Fridge Organization Zoning Freshness History"
+    },
+    {
+      "category_slug": "trending-fridge-organization-zoning-freshness",
+      "category_name": "Trending Fridge Organization Zoning Freshness"
+    },
+    {
+      "category_slug": "tutorials-fridge-organization-zoning-freshness",
+      "category_name": "Fridge Organization Zoning Freshness Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "fridge-organization-zoning-freshness",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Fridge Organization Zoning Freshness Central",
+    "articles_per_row": 4
+  }
+}
